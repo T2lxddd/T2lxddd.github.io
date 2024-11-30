@@ -3,4 +3,4 @@
   - Tar
 - ![190153205](190153205.jpg)
 
-- -[AUTHENTICATION](authentication)
+-[AUTHENTICATION](authentication)
