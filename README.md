@@ -10,5 +10,7 @@
 
 -[Validity](validity.md)
 
+-[Board Game](boardgame.md)
+
 
 
