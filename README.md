@@ -12,7 +12,7 @@
 
 -[Board Game](boardgame.md)
 
-##Project
+**Project**
 
 -[SA Project](https://drive.google.com/file/d/1Ltk4dYusU5IyIrFjwXEepHJzETcFcyCY/view)
 
