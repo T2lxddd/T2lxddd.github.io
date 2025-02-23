@@ -7,7 +7,7 @@
 local privacy laws or relevant security policy.
 ---
 
-### 📊 **คำแปลจาก Ai Model and My Self**  
+### 📊 **คำแปลจาก AI Model and My Self**  
 
 | 🛠 **แหล่งที่มา**  | ✨ **คำแปล** |
 |--------------------|-------------|
