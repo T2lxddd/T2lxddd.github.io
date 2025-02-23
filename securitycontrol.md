@@ -4,6 +4,8 @@
 
 **Location** : นอร์ทปาร์ค คอนโดมีเนียม
 
+![image](IMG_1503.jpg)
+
 **Control Function**: Preventative
 
 **ทำไมการสแกนคีย์การ์ดเข้าหอพักจึงเป็น Physical Control ประเภท Preventative** : 
