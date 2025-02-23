@@ -12,6 +12,8 @@
 
 -[Board Game](boardgame.md)
 
+-[Security Control](securitycontrol.md)
+
 **Project**
 
 -[SA Project](https://drive.google.com/file/d/1Ltk4dYusU5IyIrFjwXEepHJzETcFcyCY/view)
