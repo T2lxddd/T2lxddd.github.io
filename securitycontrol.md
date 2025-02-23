@@ -1,4 +1,4 @@
-#Security Control
+**Security** Control
 ##การสแกนคีย์การ์ดเข้าหอพัก
 ##Location : นอร์ทปาร์ค คอนโดมีเนียม
 ####Control Function: Preventative
