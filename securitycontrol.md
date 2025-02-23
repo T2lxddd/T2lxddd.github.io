@@ -4,7 +4,7 @@
 
 **Location** : นอร์ทปาร์ค คอนโดมีเนียม
 
-![image](Pic/encode.png)
+![image](Pic/IMG_1503.jpg)
 
 **Control Function**: Preventative
 
