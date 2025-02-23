@@ -1,4 +1,4 @@
-**Security** Control
+**Security Control**
 
 **การสแกนคีย์การ์ดเข้าหอพัก**
 
