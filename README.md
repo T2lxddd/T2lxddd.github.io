@@ -12,9 +12,9 @@
 
 -[Board Game](boardgame.md)
 
--[Security Control](securitycontrol.md)
+-[Security Control](security-control.md)
 
--[Security Requirements](securityrequirements.md)
+-[Security Requirements](security-requirements.md)
 
 **Project**
 
